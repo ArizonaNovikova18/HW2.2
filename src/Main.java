@@ -21,10 +21,13 @@ public class Main {
           new Hufflepuff(45, 76,"Zachariach Smith", 45, 87, 90),
           new Hufflepuff(69, 65, "Cedric Diggory", 76, 56, 67),
           new Hufflepuff(60, 78, "Justin Finch-Fletchley", 67, 46, 89)
-                PrintService printService = new PrintService();
-        printService.print(slytherin);
-        };
 
+        };
+        PrintService printService = new PrintService();
+        printService.print(slytherins);
+        printService.print(kogtevrans);
+        printService.print(hufflepuffs);
+        printService.print(gryffindors);
 
     }
 
