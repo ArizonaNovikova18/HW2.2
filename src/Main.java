@@ -28,9 +28,6 @@ public class Main {
         printService.print(kogtevrans);
         printService.print(hufflepuffs);
         printService.print(gryffindors);
-
     }
-
-
     }
 

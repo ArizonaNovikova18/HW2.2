@@ -54,7 +54,7 @@ public class Kogtevran extends Hogwarts {
             System.out.printf(
                     "Студент %s лучше студента %s (%d vs %d)%n",
                     this.getFullName(),
-                    Kogtevran.getFullName(),
+                    kogtevran.getFullName(),
                     sumOfCharacteristics1,
                     sumOfCharacteristics2
             );
